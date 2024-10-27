@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors
+A classic Stone-Paper-Scissors (Rock-Paper-Scissors) game built with [mention the language, framework, or tools, e.g., Python, JavaScript, etc.]. This game allows users to play against the computer, providing a simple, interactive way to enjoy the popular hand game.
